@@ -25,6 +25,10 @@ e.g:
 
 * [SymmetricDS](https://www.symmetricds.org/)
 
+* [Blitzz.io](https://www.blitzz.io/developers)
+
+* [Blitzz.io Docker Image](https://hub.docker.com/r/blitzzreplicant/replicant)
+
 * [Amazon DMS](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.htm)
 
 * [Amazon Schema convertion tool](https://aws.amazon.com/dms/schema-conversion-tool/)
