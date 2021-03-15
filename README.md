@@ -25,6 +25,12 @@ e.g:
 
 * [SymmetricDS](https://www.symmetricds.org/)
 
+* [SymmetricDS - Download sourceforge](https://sourceforge.net/projects/symmetricds/files/latest/download)
+
+* [SymmetricDS - Github JumpMind](https://github.com/JumpMind/symmetric-ds)
+
+* [SymmetricDS - Github CrunchyData](https://github.com/CrunchyData/symmetric-ds)
+
 * [Blitzz.io](https://www.blitzz.io/developers)
 
 * [Blitzz.io Docker Image](https://hub.docker.com/r/blitzzreplicant/replicant)
